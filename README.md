@@ -11,7 +11,7 @@ Food and drink is only permitted in “the Parlor” (Room 140) and the “Meeti
 Water bottles should be stored in the marked locations in the Discovery Lab
 
 **Phones and Devices**
-Phones and electronic devices (laptops, etc.) are allowed in the Discovery Lab, but only in marked spaces. Phones are never permitted to be used while operating instruments/equipment in the Discovery Lab’s technical spaces. Step into Room 140 if you need to make a call or need a quick break. Phones (and other personal electronic devices) can be stored in the lockable storage units in the student storage room (Room 140C1) or in the device charging station located in the student storage room. The Discovery Lab is not responsible for any devices that are lost or stolen.
+Phones and electronic devices (laptops, etc.) are allowed in the Discovery Lab. Phones are never permitted to be used while operating instruments/equipment in the Discovery Lab’s technical spaces. Step into Room 140 if you need to make a call or need a quick break. Phones (and other personal electronic devices) can be stored in the lockable storage units in the student storage room (Room 140C1) or in the device charging station located in the student storage room. The Discovery Lab is not responsible for any devices that are lost or stolen.
 
 **Storage**
 Student storage lockers are located in the Student Storage Area (Room 140C1) are restricted to use by students working on Discovery Lab undergraduate research experiences, students registered for class hosted by the Discovery Lab, or workshop participants.
@@ -19,14 +19,12 @@ Student storage lockers are located in the Student Storage Area (Room 140C1) are
 **Clean-Up**
 Discovery Lab users are responsible for cleaning up their work areas and/or equipment after they finish their work. Everything should be returned to just as it was when they arrived. **NEVER LEAVE A TECHNICAL SPACE IN THE DISCOVERY LAB WITHOUT CLEANING UP AFTER YOURSELF**. 
 
-
-
 _**Communication expectations**_
 Talk to people! Ask questions! Answer questions! Admit when you don’t know the answer! All kindly, of course.
 
 Most internal lab communication happens first either in-person or on MS Teams. Whenever it’s helpful to talk to someone “in person” - ask to set it up. If people who weren’t part of your in-person conversation would be helped by knowing about it, please post on the relevant channel on MS Teams.
 
-Unless specifically discussed with Dr. Helm , Dr. Brown, or Mr. Sumner  you are expected to maintain awareness of communications that occur on the Discovery Lab URE MS Teams channelsLinks to an external site./chats and have notifications on for at least the durations of your shifts. The Discovery Lab uses Teams for direct messages, group conversations, short video/audio calls, and sending general announcements. Teams can be accessed via mobile or computer apps, or through a browser.
+Unless specifically discussed with a member of the Discovery Lab Leadership Team or a Peer Leader you are expected to maintain awareness of communications that occur on the Discovery Lab URE MS Teams channelsLinks to an external site./chats and have notifications on for at least the durations of your shifts. The Discovery Lab uses Teams for direct messages, group conversations, short video/audio calls, and sending general announcements. Teams can be accessed via mobile or computer apps, or through a browser.
 
 When talking with internal peers and faculty, you are not expected to use a formal tone. Quick messages with a conversational tone and clearly defined problem/topic are likely to receive the fastest responses.
 
