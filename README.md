@@ -19,7 +19,7 @@ Student storage lockers are located in the Student Storage Area (Room 140C1) are
 **Clean-Up**
 Discovery Lab users are responsible for cleaning up their work areas and/or equipment after they finish their work. Everything should be returned to just as it was when they arrived. **NEVER LEAVE A TECHNICAL SPACE IN THE DISCOVERY LAB WITHOUT CLEANING UP AFTER YOURSELF**. 
 
-_**Communication expectations**_
+**Communication expectations**
 Talk to people! Ask questions! Answer questions! Admit when you don’t know the answer! All kindly, of course.
 
 Most internal lab communication happens first either in-person or on MS Teams. Whenever it’s helpful to talk to someone “in person” - ask to set it up. If people who weren’t part of your in-person conversation would be helped by knowing about it, please post on the relevant channel on MS Teams.
