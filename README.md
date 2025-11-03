@@ -10,14 +10,18 @@ Food and drink is only permitted in “the Parlor” (Room 140) and the “Meeti
 
 Water bottles should be stored in the marked locations in the Discovery Lab
 
+
 **Phones and Devices**
 Phones and electronic devices (laptops, etc.) are allowed in the Discovery Lab. Phones are never permitted to be used while operating instruments/equipment in the Discovery Lab’s technical spaces. Step into Room 140 if you need to make a call or need a quick break. Phones (and other personal electronic devices) can be stored in the lockable storage units in the student storage room (Room 140C1) or in the device charging station located in the student storage room. The Discovery Lab is not responsible for any devices that are lost or stolen.
+
 
 **Storage**
 Student storage lockers are located in the Student Storage Area (Room 140C1) are restricted to use by students working on Discovery Lab undergraduate research experiences, students registered for class hosted by the Discovery Lab, or workshop participants.
 
+
 **Clean-Up**
 Discovery Lab users are responsible for cleaning up their work areas and/or equipment after they finish their work. Everything should be returned to just as it was when they arrived. **NEVER LEAVE A TECHNICAL SPACE IN THE DISCOVERY LAB WITHOUT CLEANING UP AFTER YOURSELF**. 
+
 
 **Communication expectations**
 Talk to people! Ask questions! Answer questions! Admit when you don’t know the answer! All kindly, of course.
