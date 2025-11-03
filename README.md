@@ -1,29 +1,29 @@
 # Welcome-to-the-Discovery-Lab
 Key resources and information to help you get started working in the lab
 
-_**Key Operational Policies**_
+## _**Key Operational Policies**_
 The Discovery Lab team works hard to ensure that the lab is a supportive, safe, and productive space for all users. **Always follow any instructions provided by Peer Leaders and/or members of the Discovery Lab Leadership Team**
 **ASK QUESTIONS! IF YOU ARE EVERY UNSURE ABOUTE SOMETHING, PLEASE REACH OUT TO A PEER LEADER OR A MEMBER OF THE DISCOVERY LAB LEADERSHIP TEAM**
 
-**Food + Drink**
+## **Food + Drink**
 Food and drink is only permitted in “the Parlor” (Room 140) and the “Meeting Room” (Room 140C3) so long as all mess is cleaned up and disposed of in appropriate receptacles. Receptacles for general waste and food waste are marked. **NO FOOD OR DRINK IS ALLOWED IN THE OTHER TECHNICAL SPACES OF THE DISCOVERY LAB**.
 
 Water bottles should be stored in the marked locations in the Discovery Lab
 
 
-**Phones and Devices**
+## **Phones and Devices**
 Phones and electronic devices (laptops, etc.) are allowed in the Discovery Lab. Phones are never permitted to be used while operating instruments/equipment in the Discovery Lab’s technical spaces. Step into Room 140 if you need to make a call or need a quick break. Phones (and other personal electronic devices) can be stored in the lockable storage units in the student storage room (Room 140C1) or in the device charging station located in the student storage room. The Discovery Lab is not responsible for any devices that are lost or stolen.
 
 
-**Storage**
+## **Storage**
 Student storage lockers are located in the Student Storage Area (Room 140C1) are restricted to use by students working on Discovery Lab undergraduate research experiences, students registered for class hosted by the Discovery Lab, or workshop participants.
 
 
-**Clean-Up**
+## **Clean-Up**
 Discovery Lab users are responsible for cleaning up their work areas and/or equipment after they finish their work. Everything should be returned to just as it was when they arrived. **NEVER LEAVE A TECHNICAL SPACE IN THE DISCOVERY LAB WITHOUT CLEANING UP AFTER YOURSELF**. 
 
 
-**Communication expectations**
+## **Communication expectations**
 Talk to people! Ask questions! Answer questions! Admit when you don’t know the answer! All kindly, of course.
 
 Most internal lab communication happens first either in-person or on MS Teams. Whenever it’s helpful to talk to someone “in person” - ask to set it up. If people who weren’t part of your in-person conversation would be helped by knowing about it, please post on the relevant channel on MS Teams.
