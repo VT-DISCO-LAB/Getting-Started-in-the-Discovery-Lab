@@ -1,6 +1,11 @@
 # Welcome-to-the-Discovery-Lab
 Key resources and information to help you get started working in the lab
 
+## **Links to Important Resources**
+* Are you a new student user? [Use this template to get your lab notebook started](https://github.com/VT-DISCO-LAB/individual_student_Template)
+* Looking for resources to help you get started? [Use this repository to access those resources and more](https://github.com/VT-DISCO-LAB/Getting-Started-in-the-Discovery-Lab)
+* Loing for a standard operating procedure? [Use this repository to access](https://github.com/VT-DISCO-LAB/SOPS)
+
 ## _**Key Operational Policies**_
 The Discovery Lab team works hard to ensure that the lab is a supportive, safe, and productive space for all users. **Always follow any instructions provided by Peer Leaders and/or members of the Discovery Lab Leadership Team**
 **ASK QUESTIONS! IF YOU ARE EVERY UNSURE ABOUTE SOMETHING, PLEASE REACH OUT TO A PEER LEADER OR A MEMBER OF THE DISCOVERY LAB LEADERSHIP TEAM**
